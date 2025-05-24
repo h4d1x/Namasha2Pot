@@ -26,8 +26,8 @@ Boj4ckHoor3man 🐴
 ---
 ## 🚀 Overview
 
-This is a fun and functional Python automation tool designed to:
-- Open **Namasha** video links in Potplayer!!.
+This is a functional Python automation tool designed to:
+- Open **Namasha** video links in Potplayer!!
 
 ---
 

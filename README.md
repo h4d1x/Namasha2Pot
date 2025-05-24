@@ -1,3 +1,4 @@
+```plaintext
                                  |\    /|
                               ___| \,,/_/
                            ---__/ \/    \
@@ -18,6 +19,7 @@
   < |    /__\                <  \
   /__\                       /___\
 Boj4ckHoor3man 🐴 
+```
 
 > **Ready to automate your Namasha videos?**  
 > **Copy a video link and BOOM!** 🔥💥

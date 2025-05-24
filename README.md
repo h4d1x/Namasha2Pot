@@ -51,13 +51,14 @@ perfer_quality = 720
 
 2. Install Microsoft Edge 🌐
 If you don't have Edge installed yet, run this PowerShell command:
+```
 cd ~\Downloads; Start-BitsTransfer "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en&brand=M100" .\MicrosoftEdgeSetup.exe; Invoke-Expression .\MicrosoftEdgeSetup.exe
-
+```
 
 3. Install the Edge WebDriver 🔧
 Go to:
 🔗 Microsoft Edge WebDriver Downloads
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH#downloads
+```https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH#downloads```
 
 Download the WebDriver that matches your version of Edge.
 

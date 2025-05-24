@@ -166,7 +166,7 @@ start "" "%potplayer_path%" "%video_url%"
 exit
 """)
     subprocess.Popen(bat_file_path, shell=True)
-    time.sleep(2)  # مدت زمانی که به فایل Batch برای اجرا داده می‌شود
+    time.sleep(2)
     os.remove(bat_file_path)
 url = pyperclip.paste()
 if url.startswith("https://www.namasha.com/v"):
